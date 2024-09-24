@@ -88,7 +88,7 @@ public class OnlineReservationSystem {
         String username = u1.getUsername();
         String password = u1.getPassword();
 
-        String url = "jdbc:mysql://localhost:3306/SHUBHAM";
+        String url = "jdbc:mysql://localhost:3306/SAHIL";
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
 
